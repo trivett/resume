@@ -12,7 +12,6 @@ body {
     margin: 0 auto;
     max-width: 960px;
     padding:10px 10px;
-
 }
 
 h1, h2, h3, b {
@@ -60,6 +59,14 @@ ul li {
   text-align: right;
 }
 
+p.journalism-head {
+  padding-bottom: 8px;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.2em;
+  font-weight: 300;
+  font-size: 14px;
+}
 
 #top {
     width: 100%;
@@ -83,6 +90,11 @@ ul li {
 #main h2, h3 {
   margin-top: -5px;
   margin-bottom:10px;
+}
+
+#main h2, #side h2, h3#journalism {
+  border-bottom: 1px solid black;
+  display: inline-block;
 }
 
 h4 {
