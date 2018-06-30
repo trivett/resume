@@ -30,27 +30,25 @@ span.code {
 }
 
 #top h2 {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 300;
     margin-top:5px;
 }
 
 #name{
-    width:300px;
-    display: inline-block;
+    width:50%;
     float:left;
 }
 
 #contact{
     width:300px;
-    display: inline-block;
-    float:left;
+    float: left;
     font-size: 12px;
 }
 
 ul li {
     list-style: none;
-    line-height: 1.2em;
+    line-height: 1.25em;
     font-weight: 300;
     font-size: 14px;
 }
@@ -63,7 +61,7 @@ p.journalism-head {
   padding-bottom: 8px;
   margin-top: 0;
   margin-bottom: 0;
-  line-height: 1.2em;
+  line-height: 1.25em;
   font-weight: 300;
   font-size: 14px;
 }
