@@ -1,0 +1,22 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "I used to have Adobe InDesign. A while back I spent nearly a full Saturday trying to get my resume layout correct on a variety of open source editors that didn't really work for me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/trivett/resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trivett/resume/issues"
+  },
+  "homepage": "https://github.com/trivett/resume#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
